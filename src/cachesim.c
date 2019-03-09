@@ -1,14 +1,8 @@
-/*************************************************************************
- / filename: cachesim.c /
- / description: Implements the cache simulator. /
- /       authors:  Last, First
- /
- / class: CSE 331
- / instructor: Zheng
- / assignment: Lab #2 /
- / assigned: 2/19/2019
- / due: 3/5/2019
- / ************************************************************************/
+/**
+* @file cachesim.c
+* @author Namir Hassan
+*/
+
 
 #include "cachesim.h"
 
