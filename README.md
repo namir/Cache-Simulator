@@ -14,7 +14,7 @@ make
 ./cachesim ../confs/2way-nwa.conf ../traces/gcc.trace
 
 # If you want to use different configuration and trace file, just change the 
-# file names in the ./cahesim command above.
+# file names in the ./cachesim command above.
 
 # In order to get Simulator Output with .out extension whose prefix is based on the name of the input trace file, use
 ./cachesim ../confs/2way-nwa.conf ../traces/gcc.trace
